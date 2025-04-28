@@ -6,8 +6,8 @@
 - 修改`vlm_modules`中的`qwen_module.py`，增加`length_reward`函数
 - 对vrl框架中的参数设置进行适配
 - 实现了DAPO论文中提及的全部改进，即：
-  - ![001](.\assets\001.png)
-  - ![002](.\assets\002.png)
-  - ![004](.\assets\004.png)
-  - ![003](.\assets\003.png)
+  - ![001](./assets/001.png)
+  - ![002](./assets/002.png)
+  - ![004](./assets/004.png)
+  - ![003](./assets/003.png)
 
